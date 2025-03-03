@@ -1,0 +1,22 @@
+# Build artifacts
+dist/
+build/
+*.exe
+*.zip
+
+# Temporary files
+*.pyc
+__pycache__/
+*.log
+BrowserData/
+
+# Environment
+venv/
+.env
+
+# IDE files
+.idea/
+*.sublime-*
+
+# Sensitive data
+configs.py  

@@ -1,0 +1,6 @@
+psutil==7.0.0
+pycryptodomex==3.21.0
+pywin32==308
+scapy==2.6.1
+Telethon==1.39.0
+WMI==1.5.1
